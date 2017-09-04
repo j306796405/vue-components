@@ -32,6 +32,9 @@
       return{
         activeNamesA: ['1', '2']
       }
+    },
+    mounted(){
+
     }
   }
 </script>
